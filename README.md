@@ -1,4 +1,4 @@
-# 🌌 QLS-Engine : Quantum-Like Synchronization
+#  QLS-Engine : Quantum-Like Synchronization
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 ---
 
-## ☢️ Le Concept "Nuclear"
+## 🌌 Le Concept Quantum-Like Synchronization
 
 Le **QLS-Engine** n'est pas un simple simulateur. C'est une implémentation de l'architecture fractale **FC-496** conçue par **Bryan Ouellette**. En utilisant le modèle de Kuramoto couplé à la loi **CEML** (*Cognitive Entropy Minimization Law*), nous forçons un système classique à atteindre des états de synchronisation identiques à la cohérence quantique.
 
