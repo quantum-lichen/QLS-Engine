@@ -2,7 +2,7 @@
 
 [![QLS-Engine](https://img.shields.io/badge/QLS-Engine-0b1120?style=for-the-badge&logo=quantum&logoColor=white)](https://github.com/quantum-lichen/QLS-Engine)
 [![Status](https://img.shields.io/badge/status-experimental-facc15?style=for-the-badge)](https://github.com/quantum-lichen/QLS-Engine)
-[![License AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-22c55e?style=for-the-badge)](LICENSE)
+[![License Apache 2.0](https://img.shields.io/badge/license-Apache--2.0-blue.svg?style=for-the-badge&logo=apache)](https://www.apache.org/licenses/LICENSE-2.0)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-61dafb?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![Tests](https://img.shields.io/badge/tests-100%25-passing-brightgreen?style=for-the-badge&logo=vitest&logoColor=white)](https://github.com/quantum-lichen/QLS-Engine/actions)
 
@@ -102,10 +102,6 @@ text
 2. `pytest tests/` (100% coverage)
 3. PR avec benchmarks
 
-**Bounties ouvertes** :
-- [$500] GPU acceleration (CUDA/PyTorch)
-- [$200] 10k agents scaling
-- [$100] Visualiseur 3D interactif
 
 ## 📄 License
 
