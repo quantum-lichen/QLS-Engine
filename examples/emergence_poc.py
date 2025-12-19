@@ -42,3 +42,8 @@ def run_emergence():
 
 if __name__ == "__main__":
     run_emergence()
+    
+        # 🌀 Test Immortalité (NOUVEAU)
+    from src.qls_engine.kuramoto import immortality_test
+    immortality_test(engine)
+
