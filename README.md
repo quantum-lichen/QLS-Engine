@@ -66,11 +66,15 @@ python examples/poc_synchronization.py
 
 ---
 
-## 🔬 Les Équations au Cœur du Réacteur
+🔬 Les Équations au Cœur du Réacteur
 
-### 1. Dynamique de Phase (Kuramoto)
 
-### 2. Stabilisation CEML
+1. Dynamique de Phase :   (Kuramoto)$$\frac{d\theta_i}{dt} = \omega_i + \sum_{j=1}^{N} K_{ij} \sin(\theta_j - \theta_i)$$2. Stabilisation CEML$$\text{CEML} = \frac{\text{Cohérence}}{\text{Entropie} + \epsilon}$$
+
+
+
+2. Stabilisation CEML :    $$\text{CEML} = \frac{\text{Cohérence}}{\text{Entropie} + \epsilon}$$
+
 
 
 *Le système cherche activement à maximiser ce ratio pour maintenir la stabilité du signal.*
